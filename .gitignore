@@ -1,0 +1,35 @@
+# Compiled Python files
+*.pyc
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# other
+.directory
+.nfs*
+CVS/
+
+*~
+*.bak
+*.exe
+*.lo
+*.dylib
+*.Po
+*.Plo
+*.la
+*.a
+*.o
+*.obj
+*.so
+*.dll
+*.mex*
+*.dSYM
