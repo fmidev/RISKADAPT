@@ -33,3 +33,6 @@ CVS/
 *.dll
 *.mex*
 *.dSYM
+
+stan/*.hpp
+stan/ggev
