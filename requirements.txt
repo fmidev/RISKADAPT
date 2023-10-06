@@ -1,0 +1,14 @@
+pandas
+xarray
+dask
+distributed
+netcdf4
+numpy
+scipy
+matplotlib
+seaborn
+ipykernel
+ipywidgets
+# arviz does not work with 1.2.0
+cmdstanpy==1.1.0
+arviz

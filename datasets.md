@@ -42,3 +42,9 @@ Greek National Data Bank for Hydrometeorological Information
  - MSWEP is a global precipitation product with a 3‑hourly 0.1° resolution available from 1979 to ~3 hours from real-time. The product is unique in that it merges gauge, satellite, and reanalysis data to obtain the highest quality precipitation estimates at every location.
  - https://www.gloh2o.org/mswep/
  - Beck et al., 2019 https://doi.org/10.5194/hess-23-207-2019
+
+ - Nordic Gridded Climate Dataset (NGCD)
+ - https://confluence.ecmwf.int/pages/viewpage.action?pageId=278546861
+
+ 
+ - https://desm.harvesterseasons.com/grid-gui
