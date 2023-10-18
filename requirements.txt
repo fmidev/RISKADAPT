@@ -7,6 +7,8 @@ numpy
 scipy
 matplotlib
 seaborn
+fiona
+geopandas
 ipykernel
 ipywidgets
 # arviz does not work with 1.2.0

@@ -1,6 +1,6 @@
 # Available data sets
 
-Here are some usefull data sets that can be used in the analyses. Some of them are used in the example notebooks in this folder.
+Here are some useful data sets that can be used in the analyses. Some of them are used in the example notebooks in this folder.
 
 ### ERA5 Land
 
